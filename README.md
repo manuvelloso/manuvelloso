@@ -4,7 +4,7 @@
 
 🌱 I’m currently studying Biomedical Engeeniering at Universidad Favaloro
 
-![Manuela's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuvelloso&show_icons=true&theme=radical)
+![Manuela's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuvelloso&show_icons=true&theme=dracula)
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
