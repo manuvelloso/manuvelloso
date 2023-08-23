@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](header.png)](your GitHub link)
 
 🔭 I’m currently working as an academic assistant
 
